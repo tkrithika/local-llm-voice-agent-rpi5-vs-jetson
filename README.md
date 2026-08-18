@@ -21,7 +21,7 @@ local-llm-voice-agent-rpi5-vs-jetson/
 ├── voice_pipeline.py       # runnable STT -> LLM -> TTS pipeline script
 ├── requirements.txt        # Python dependencies
 └── samples/
-    ├── command_test.wav        # example input: a spoken voice command
+    ├── command_test_input.wav        # example input: a spoken voice command
     └── pipeline_output_2.wav   # example output: the pipeline's spoken response
 ```
 
